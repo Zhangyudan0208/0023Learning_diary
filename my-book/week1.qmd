@@ -1,0 +1,19 @@
+---
+title: "Week 1 - Introduction to Remote Sensing"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Summary
+
+Words
+
+## Applications
+
+Words
+
+
+words 
+## Reflection Words
