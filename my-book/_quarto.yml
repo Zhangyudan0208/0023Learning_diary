@@ -7,10 +7,10 @@ book:
   date: "2024/1/23"
   chapters:
     - index.qmd
-    - week1.qmd
     - intro.qmd
     - summary.qmd
     - references.qmd
+
 
 bibliography: references.bib
 
